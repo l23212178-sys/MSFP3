@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Práctica 3: Modelado y control del sistema
+  musculoesquelético
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Osmar '
+    family-names: Armenta
+    email: l23212178@tectijuana.edu.mx
+    name-particle: OSMAR
+    affiliation: TecNM/IT Tijuana
+repository-code: 'https://github.com/l23212178-sys/MSFP3'
+keywords:
+  - Sistema musculoesquelético
+  - atrofia muscular
+  - modelado matemático
+  - analogía eléctrica
+  - función de transferencia
+  - retroalimentación negativa
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-11-03'
