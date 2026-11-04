@@ -53,7 +53,7 @@ Se representa el comportamiento mecánico del músculo y del tendón mediante un
 
 ## Modelo físico y diagrama biológico
 
-![Diagrama musculoesquelético y representación de atrofia muscular](figuras/diagrama_musculoesqueletico.jpeg)
+![Diagrama musculoesquelético y representación de atrofia muscular](diagrama_musculoesqueletico.jpeg)
 
 *Figura 1. Diagrama elaborado en BioRender: elemento contráctil, componente viscoso, estructuras elásticas, tendón, fijación ósea y representación del caso de atrofia muscular.*
 
